@@ -6,4 +6,5 @@ def my_collect(Array)
   while i < array.length 
     collection.push yield(array[i])
     
-    1 += 0
+    i += 0 
+    
