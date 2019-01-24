@@ -1,5 +1,6 @@
 collection = ['dog', 'cat', 'bird']
-my_collection(collection) do |animal|
+
+my_collect(collection) do |animal|
   animal.upcase
 end
 
