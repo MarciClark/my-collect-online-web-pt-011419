@@ -1,4 +1,4 @@
-collection = ['dog', 'cat', 'bird']
+collection = ["Jane Smith", "John Smith", "Susan Smith"]
 
 def my_collect(Array)
   i = 0 
