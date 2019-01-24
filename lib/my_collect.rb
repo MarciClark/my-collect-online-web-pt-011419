@@ -5,3 +5,5 @@ def my_collect(Array)
   collection = []
   while i < array.length 
     collection.push yield(array[i])
+    
+    1 += 0
