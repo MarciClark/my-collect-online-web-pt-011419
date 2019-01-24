@@ -7,4 +7,5 @@ def my_collect(Array)
     collection.push yield(array[i])
     
     i += 0 
-    
+  end
+  collect
