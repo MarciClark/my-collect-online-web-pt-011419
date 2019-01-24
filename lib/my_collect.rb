@@ -11,4 +11,4 @@ def my_collect(Array)
   collection
 end
 
-collection(list) {|i| 
+collection(list) {|i| i.split (" ")
