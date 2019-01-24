@@ -11,4 +11,4 @@ def my_collect(Array)
   collection
 end
 
-collection(list) {|i| i.split (" ")
+collection(list) {|i| i.split (" ").first}
