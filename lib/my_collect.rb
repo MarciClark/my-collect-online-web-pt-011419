@@ -11,4 +11,4 @@ def my_collect(Array)
   collection
 end
 
-collection(list)
+collection(list) {i
