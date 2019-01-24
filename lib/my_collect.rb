@@ -1,4 +1,4 @@
-collection = ["Jane Smith", "John Smith", "Susan Smith"]
+names = ["Jane Smith", "John Smith", "Susan Smith"]
 
 def my_collect(array)
   i = 0 
@@ -11,4 +11,4 @@ def my_collect(array)
   collection
 end
 
-collection(list) {|i| i.split (" ").first}
+collection(names) {|i| i.split (" ").first}
