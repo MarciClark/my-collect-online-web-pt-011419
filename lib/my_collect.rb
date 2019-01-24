@@ -1,6 +1,6 @@
 collection = ["Jane Smith", "John Smith", "Susan Smith"]
 
-def my_collect(Array)
+def my_collect(array)
   i = 0 
   collection = []
   while i < array.length 
